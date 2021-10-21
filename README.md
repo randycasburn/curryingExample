@@ -22,4 +22,6 @@ Enter the concept of currying. I invite you to take a look at the linked Plunker
 - View.js - Outputs content to both browser and console.
 - I hope you find this example demonstrates a practical use of currying and that it is helpful and instructive.
 
+[Working GitHub Pages](https://randycasburn.github.io/curryingExample/)
+
 Working Plunker: [A practical example of a Model using Currying](http://plnkr.co/edit/Jqbu07cd9bFFTMtVrz5c?p=preview)
